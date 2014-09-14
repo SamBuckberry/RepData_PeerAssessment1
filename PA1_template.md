@@ -47,7 +47,6 @@ median(steps$steps, na.rm=TRUE)
 ## [1] 10765
 ```
 
-
 ## What is the average daily activity pattern?
 
 First, the data was melted on the "interval" variable and cast to calculate statistics for each interval. 
